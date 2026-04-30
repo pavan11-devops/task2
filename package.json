@@ -1,0 +1,14 @@
+{
+  "name": "bus-ticket-booking",
+  "version": "1.0.0",
+  "description": "Simple Bus Ticket Booking Platform using Node.js and Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Pavan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
